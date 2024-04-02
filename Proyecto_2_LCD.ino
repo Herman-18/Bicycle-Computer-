@@ -1,3 +1,10 @@
+/* 
+   Samuel Niño
+   Sebastian González
+   Isaack Cáceres
+   Herman Castillo
+*/
+
 //Configuracion Pantalla LCD
 #include <LiquidCrystal.h>
 const int rs=22, en=23,d4=24,d5=25,d6=26,d7=27;
